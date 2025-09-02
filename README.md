@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text='헤더'&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header" />
 ## Hi there 👋
 
 [![F-los's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-los)](https://github.com/F-los/github-readme-stats)
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer&text='푸터'&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer" />
 출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
