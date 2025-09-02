@@ -2,6 +2,8 @@
 
 ## Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-los&theme=dark&layout=compact&langs_count=8&hide=shaderLab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+
 [![F-los's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-los)](https://github.com/F-los/github-readme-stats)
 
 <!--
