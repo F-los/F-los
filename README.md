@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![F-los's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![F-los's GitHub stats](https://github-readme-stats.vercel.app/api?username=F-los)](https://github.com/F-los/github-readme-stats)
 
 <!--
 **F-los/F-los** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
