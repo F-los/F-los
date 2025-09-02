@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
-## Hi I am Tim (Taewhei Kim) 
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hello+my+name+is+Tim+(Taewhei+Kim))](https://git.io/typing-svg)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F-los&theme=dark&layout=compact&langs_count=8&hide=shaderLab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
